@@ -5,7 +5,9 @@ Este projeto consiste em criar uma plataforma de notícias e divulgação do nos
 
 ## O que é o counterUP?
 
-Uma gestão de caixa financeiro ineficiente acaba se tornando um peso na boa gestão de uma empresa, fazendo ela passar por problemas de insuficiência com suas obrigações ou perda de oportunidades, ao mesmo tempo que a plena eficiência na gestão de caixa pode ser um investimento alto. Por isso que as empresas contam cada vez mais com soluções inteligentes e baratas, e mantém boas relações com credores, principalmente instituições financeiras, a fim de manter um bom fluxo de caixa. Portanto, o melhor investimento na gestão de caixa ainda pode deixar uma brecha de gestão, ou seja, as sobras de caixa, que podem ser um capital de investimento precioso, desde que o esforço para tal seja compatível.
+Uma gestão de caixa financeiro ineficiente acaba se tornando um peso na boa gestão de uma empresa, fazendo ela passar por problemas de insuficiência com suas obrigações ou perda de oportunidades, ao mesmo tempo que a plena eficiência na gestão de caixa pode ser um investimento alto. 
+
+Por isso que as empresas contam cada vez mais com soluções inteligentes e baratas, e mantém boas relações com credores, principalmente instituições financeiras, a fim de manter um bom fluxo de caixa. Portanto, o melhor investimento na gestão de caixa ainda pode deixar uma brecha de gestão, ou seja, as sobras de caixa, que podem ser um capital de investimento precioso, desde que o esforço para tal seja compatível.
 
 ## Solução e Diferenciais
 
@@ -23,5 +25,8 @@ Essa solução não tenta se disfarçar como uma instituição financeira ou um 
 
 ## Links Importantes
 
-https://ufrn.br/imprensa/noticias/60342/pax-rn-lanca-e-book-sobre-industria-4-0
+Ebook sobre industria 4.0: https://ufrn.br/imprensa/noticias/60342/pax-rn-lanca-e-book-sobre-industria-4-0
 
+Dissertação de Mestrado usado nas primeiras validações do CounterUP. Antes com o nome de Sistema Apolus: https://github.com/Samueldial/CounterUP-Port/blob/main/Sistema%20Apolus%20-%20Samuel%20Alves%20Dias.pdf
+
+Pitch Deck: https://github.com/Samueldial/CounterUP-Port/blob/main/Pitch%20Deck%20-%20CounterUP.pptx?raw=true
